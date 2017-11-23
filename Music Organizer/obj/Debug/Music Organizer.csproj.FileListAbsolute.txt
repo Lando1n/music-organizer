@@ -1,0 +1,84 @@
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe.config
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\bin\Debug\Music Organizer.pdb
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\obj\Debug\Music Organizer.csprojResolveAssemblyReference.cache
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\obj\Debug\Music_Organizer.Form1.resources
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\obj\Debug\Music_Organizer.Properties.Resources.resources
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\obj\Debug\Music Organizer.csproj.GenerateResource.Cache
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\obj\Debug\Music Organizer.exe
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\obj\Debug\Music Organizer.pdb
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.dll
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\bin\Debug\taglib-sharp.dll
+c:\users\lamartin\documents\visual studio 2015\Projects\Music Organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\bin\Debug\Music Organizer.exe.config
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\obj\Debug\Music Organizer.exe
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\obj\Debug\Music Organizer.pdb
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\bin\Debug\Music Organizer.exe
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\bin\Debug\Music Organizer.pdb
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\bin\Debug\taglib-sharp.dll
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\obj\Debug\Music Organizer.csprojResolveAssemblyReference.cache
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\obj\Debug\Music_Organizer.Form1.resources
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\obj\Debug\Music_Organizer.Properties.Resources.resources
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer 1.2\Music Organizer\obj\Debug\Music Organizer.csproj.GenerateResource.Cache
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe.config
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\obj\Debug\Music Organizer.exe
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\obj\Debug\Music Organizer.pdb
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\obj\Debug\Music Organizer.csprojResolveAssemblyReference.cache
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\obj\Debug\Music_Organizer.Form1.resources
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\obj\Debug\Music_Organizer.Properties.Resources.resources
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\obj\Debug\Music Organizer.csproj.GenerateResource.Cache
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\bin\Debug\Music Organizer.pdb
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\bin\Debug\taglib-sharp.dll
+C:\Users\Landon\Dropbox\projects and tools\Music Organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe.config
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.exe
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.pdb
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.pdb
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\taglib-sharp.dll
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music_Organizer.Form1.resources
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music_Organizer.Properties.Resources.resources
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.csproj.GenerateResource.Cache
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe.manifest
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.application
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.exe.manifest
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.application
+C:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.csprojResolveAssemblyReference.cache
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe.config
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe.manifest
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.application
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.exe
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\Music Organizer.pdb
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\taglib-sharp.dll
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.csprojResolveAssemblyReference.cache
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music_Organizer.Form1.resources
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music_Organizer.Properties.Resources.resources
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.csproj.GenerateResource.Cache
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.exe.manifest
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.application
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.exe
+D:\Users\Landon\Google Drive\Programming\Music Organizer\Music Organizer\obj\Debug\Music Organizer.pdb
+D:\Users\Landon\github\music-organizer\Music Organizer\bin\Debug\Music Organizer.exe.config
+D:\Users\Landon\github\music-organizer\Music Organizer\bin\Debug\Music Organizer.exe.manifest
+D:\Users\Landon\github\music-organizer\Music Organizer\bin\Debug\Music Organizer.application
+D:\Users\Landon\github\music-organizer\Music Organizer\bin\Debug\Music Organizer.exe
+D:\Users\Landon\github\music-organizer\Music Organizer\bin\Debug\Music Organizer.pdb
+D:\Users\Landon\github\music-organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\Users\Landon\github\music-organizer\Music Organizer\bin\Debug\taglib-sharp.dll
+D:\Users\Landon\github\music-organizer\Music Organizer\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Users\Landon\github\music-organizer\Music Organizer\obj\Debug\Music Organizer.csprojResolveAssemblyReference.cache
+D:\Users\Landon\github\music-organizer\Music Organizer\obj\Debug\Music_Organizer.Form1.resources
+D:\Users\Landon\github\music-organizer\Music Organizer\obj\Debug\Music_Organizer.Properties.Resources.resources
+D:\Users\Landon\github\music-organizer\Music Organizer\obj\Debug\Music Organizer.csproj.GenerateResource.Cache
+D:\Users\Landon\github\music-organizer\Music Organizer\obj\Debug\Music Organizer.exe.manifest
+D:\Users\Landon\github\music-organizer\Music Organizer\obj\Debug\Music Organizer.application
+D:\Users\Landon\github\music-organizer\Music Organizer\obj\Debug\Music Organizer.exe
+D:\Users\Landon\github\music-organizer\Music Organizer\obj\Debug\Music Organizer.pdb
