@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Music Organizer.exe" size="763832">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Music Organizer.exe" size="763392">
       <assemblyIdentity name="Music Organizer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+cWxyWtVkYPGzCB5WR9xE8CejKBAMOdeAq+Y1GqtfdQ=</dsig:DigestValue>
+        <dsig:DigestValue>/xooLtLjP7LTgo0+Lo2RycL7AWYnx3DJGL1yFqYuUs4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
